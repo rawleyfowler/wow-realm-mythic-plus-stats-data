@@ -1,4 +1,4 @@
-# wow-realm-stats-data
+# wow-realm-mythic-plus-stats-data
 
 Turns lists of `<realm> <count>` into pretty graphs. Particularly useful when tracking
 unique players realms you've played with.
